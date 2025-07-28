@@ -44,7 +44,7 @@ I'm a passionate and performance-driven developer with 2.5+ years of experience 
 
 - 📧 Email: [nanagoud007@gmail.com](mailto:nanagoud007@gmail.com)  
 - 💼 LinkedIn: [nanagoud-thabbannavar](https://www.linkedin.com/in/nanagoud-thabbannavar-aaa265194)  
-- 🌍 Portfolio: [My portfolio](https://nanagoud.github.io/Portfolio-website/)
+- 🌍 Portfolio: [Nanagoud's Porfolio](https://nanagoud.github.io/Portfolio-website/)
 
 ---
 
