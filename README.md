@@ -2,7 +2,7 @@
 
 🚀 **Full-Stack Software Engineer | Node.js Specialist | Flutter | React.js/Next.js Enthusiast**
 
-I'm a passionate and performance-driven developer with 3 years of experience building scalable, high-quality applications across web and mobile platforms. I specialize in **Node.js**, **Flutter**, **MongoDB**, **PostgreSQL**, and cloud storage solutions, and have contributed to large-scale SaaS, Fintech, and IoT platforms.
+I'm a passionate and performance-driven developer with 3 years of experience building scalable, high-quality applications across web and mobile platforms. I specialize in **Node.js**, **Flutter**, **MongoDB**, **PostgreSQL**, **React.js/Next.js**,and cloud storage solutions, and have contributed to large-scale SaaS, Fintech, and IoT platforms.
 
 ---
 
