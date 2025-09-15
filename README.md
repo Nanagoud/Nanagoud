@@ -11,6 +11,7 @@ I'm a passionate and performance-driven developer with 3 years of experience bui
 **Languages & Frameworks:**
 - JavaScript (Node.js), Dart (Flutter), SQL
 - Express.js, Redis, BullMQ, Chai-Mocha
+- React.js, Next.js
 
 **Databases & Storage:**
 - MongoDB, PostgreSQL, SQLite, TimescaleDB
